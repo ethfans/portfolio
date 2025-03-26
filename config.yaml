@@ -1,16 +1,16 @@
 # Personal Information
 user:
-  name: "Luoshen"
+  name: "ethfans"
   title: "Software Engineer"
-  location: "San Jose, CA"
-  email: "luorivergoddess@gmail.com"
+  location: "China"
+  email: "web3loc@gmail.com"
   bio: "A passionate software engineer dedicated to crafting elegant solutions through code"
 
 # Social Media Links
 social:
-  github: "https://github.com/luorivergoddess"
+  github: "https://github.com/ethfans"
   linkedin: "https://linkedin.com/in/yourusername"
-  twitter: "https://twitter.com/luorivergoddess"
+  twitter: "https://twitter.com/ngeesi35785"
   instagram: "https://instagram.com/yourusername"
 
 # Featured Projects
@@ -178,4 +178,4 @@ site:
 # GitHub Snake Configuration
 githubSnake:
   enabled: true
-  username: "luorivergoddess"
+  username: "ethfans"

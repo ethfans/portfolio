@@ -150,7 +150,7 @@ site:
   text: "#FFFFFF"
   
   meta:
-    title: "Luoshen - Portfolio"
+    title: "Ethfans - Portfolio"
     description: "Welcome to my personal portfolio showcasing my work and skills in software development"
     keywords: "software engineer, web developer, full-stack developer, react developer"
     ogImage: "/og-image.png"
